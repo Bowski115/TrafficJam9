@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "InfiniteHoverMod",
+"dataUrl": "TrafficJam6.data.unityweb",
+"wasmCodeUrl": "TrafficJam6.wasm.code.unityweb",
+"wasmFrameworkUrl": "TrafficJam6.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
